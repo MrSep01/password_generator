@@ -65,7 +65,7 @@ Designing a clean and intuitive user interface for ease of use.
 
 ### Event Handling
 
-- **Button Click:** A listener to trigger password generation when the "Generate" button is clicked.
+- **Button Click:** A listener triggers password generation when the "Generate" button is clicked.
 
 ## How to Use the Project 🖥️
 
@@ -75,13 +75,17 @@ Simply open the HTML file in a browser and follow the on-screen instructions to 
 
 The Password Generator Project showcases an example of how to create a functional and user-friendly application. Feel free to explore the code, experiment with it, and learn from the design patterns and coding practices used.
 
+## Repository 
+https://github.com/MrSep01/password_generator
+
 ## Live Demo 🌐
+https://mrsep01.github.io/password_generator/
 
 A live demo of the project can be accessed [here](https://your-link-to-demo.com).
 
-## Screenshot 🖼️
+## Screenrecording 🖼️
 
-![Alt text](assets/images/password_generator_screenshot.png)
+![Screen-recording](./Assets/password-generator.gif)
 
 ## License & Contribution 📜
 
@@ -89,4 +93,4 @@ This project is open for contributions and licensed under the MIT License.
 
 ## Contact 📞
 
-For any inquiries, please contact the project maintainer.
+For any inquiries, please contact Mr.Sep @ sep.alamouti-AT-sepalamouti-DOT-com
